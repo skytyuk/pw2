@@ -1,0 +1,15 @@
+C:\Users\enoti\source\repos\pw2\bin\Debug\net6.0\pw2.exe
+C:\Users\enoti\source\repos\pw2\bin\Debug\net6.0\pw2.deps.json
+C:\Users\enoti\source\repos\pw2\bin\Debug\net6.0\pw2.runtimeconfig.json
+C:\Users\enoti\source\repos\pw2\bin\Debug\net6.0\pw2.dll
+C:\Users\enoti\source\repos\pw2\bin\Debug\net6.0\pw2.pdb
+C:\Users\enoti\source\repos\pw2\obj\Debug\net6.0\pw2.csproj.AssemblyReference.cache
+C:\Users\enoti\source\repos\pw2\obj\Debug\net6.0\pw2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enoti\source\repos\pw2\obj\Debug\net6.0\pw2.AssemblyInfoInputs.cache
+C:\Users\enoti\source\repos\pw2\obj\Debug\net6.0\pw2.AssemblyInfo.cs
+C:\Users\enoti\source\repos\pw2\obj\Debug\net6.0\pw2.csproj.CoreCompileInputs.cache
+C:\Users\enoti\source\repos\pw2\obj\Debug\net6.0\pw2.dll
+C:\Users\enoti\source\repos\pw2\obj\Debug\net6.0\refint\pw2.dll
+C:\Users\enoti\source\repos\pw2\obj\Debug\net6.0\pw2.pdb
+C:\Users\enoti\source\repos\pw2\obj\Debug\net6.0\pw2.genruntimeconfig.cache
+C:\Users\enoti\source\repos\pw2\obj\Debug\net6.0\ref\pw2.dll
